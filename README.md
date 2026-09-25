@@ -7,6 +7,8 @@ is typed, tested, and documented.
 
 I'm looking for a **Python backend** role, remote or hybrid.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladyslav_F.-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-f-b3428540a/)
+
 ## Projects
 
 ### [Ludora](https://github.com/vladyslav-fdnk/ludora) — digital-product marketplace
@@ -45,3 +47,7 @@ in a web app with dashboards and multi-currency conversion.
 **Data:** PostgreSQL · SQLAlchemy · Alembic · Redis · Celery
 **Quality:** pytest · mypy · Ruff · pre-commit · GitHub Actions
 **Infrastructure:** Docker Compose · nginx · Caddy · Linux
+
+## Contact
+
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/vladyslav-f-b3428540a/).
